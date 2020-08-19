@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SA id app</string>
+    <string name="number_field_hint">Please enter your SA ID number</string>
+    <string name="submit">Submit</string>
+</resources>
